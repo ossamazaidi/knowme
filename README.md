@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ossamazaidi
-- 👀 I’m interested in web development & designing
-- 🌱 I’m currently learning frontend web dev and UI/UX designing..
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me ... ossamazaidi6@gmail.com
+- 🌱 I’m currently learning frontend development and UI/UX designing..
+- 💞️ I’m looking to collaborate on dynamic frontend projects
+- 📫 How to reach me ..ossamazaidi6@gmail.com
 - ⚡ Fun fact: i am a quick learner
 
 <!---
