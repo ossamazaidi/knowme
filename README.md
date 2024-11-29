@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ossamazaidi
-- 🌱 I’m currently learning frontend development and UI/UX designing..
+- 🌱 I’m currently learning frontend web development..
 - 💞️ I’m looking to collaborate on dynamic frontend projects
 - 📫 How to reach me ..ossamazaidi6@gmail.com
 - ⚡ Fun fact: i am a quick learner
