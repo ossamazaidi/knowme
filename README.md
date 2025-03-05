@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ossamazaidi
 - 🌱 I’m a frontend web developer..
 - 💞️looking to collaborate on dynamic frontend projects
-- 📫reach me @ ossamazaidi6@gmail.com
+- 📫reach me ossamazaidi6@gmail.com
 - ⚡ Fun fact: i am a quick learner
 
 <!---
